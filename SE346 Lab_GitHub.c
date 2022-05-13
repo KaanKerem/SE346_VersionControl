@@ -6,8 +6,8 @@ int main()
 	
 	//please write your name,student id and department by using printf() function
 
-	printf("Z.Yaren Oguz,123456,SE\n");
+	printf("K.Kaan.KOSE,17243610036,ISE\n");
 
-	printf("Ozge Tekin,987654,SE\n");
+	
 
 }
