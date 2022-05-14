@@ -31,6 +31,7 @@ printf("Mahmut Furkan Bakal,18243510019,CMPE\n");
 
 
 
+printf("K.Kaan.KOSE,17243610036,ISE\n");
 
 
 
