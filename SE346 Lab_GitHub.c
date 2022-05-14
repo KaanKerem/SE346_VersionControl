@@ -19,7 +19,7 @@ int main()
 	printf("Berilcan Kutlu,150302018,CMPE\n");
 	printf("Övünç Can Durukan,19243510069,CMPE\n");
 	printf("Orhun Arda Kaya,18243510023,CMPE\n");
-
+printf("K.Kaan.KOSE,17243610036,ISE\n);
 printf("Aysu İrem Adem,18243510031,CMPE\n");
 printf("Mahmut Furkan Bakal,18243510019,CMPE\n");
 
